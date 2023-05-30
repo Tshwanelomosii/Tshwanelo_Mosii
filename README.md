@@ -1,7 +1,4 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
+
 
 ### <div align="center">Full stack junior software developer Highly motivated and detail-oriented junior software developer with a passion for coding and developing innovative solutions. Proficient in various programming languages and eager to learn new technologies. Skilled in problem-solving, testing, and debugging. Seeking an entry-level position in a dynamic team where I can contribute my skills and knowledge to develop cutting-edge software applications."</div>  
   
@@ -41,10 +38,6 @@
 
 
 
-### DevOps  
-<div align="center">  
-  
-</div>
 
 </td></tr></table>  
 
@@ -53,7 +46,7 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://linkedin.com/in/percy-mosii-4b19311b8" target="_blank">
+<a href="https://linkedin.com/in/Tshwanelo-mosii-4b19311b8" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.facebook.com/tshwanelo.mosii" target="_blank">
@@ -62,7 +55,7 @@
 <a href="https://github.com/Tshwanelomosii" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/MosiiTshwanelo" target="_blank">
+<a href="https://twitter.com/Tshwanelo Mosii" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/mosiitshwanelo" target="_blank">
@@ -74,27 +67,5 @@
 <br/>  
 
 
-## Github Stats  
-  
-
-<br/>  
 
 
-## Recent Blog Posts  
-  
-
-<br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
